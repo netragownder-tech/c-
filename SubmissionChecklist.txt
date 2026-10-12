@@ -1,0 +1,36 @@
+CPP64 ART GALLERY MANAGEMENT — FINAL SUBMISSION CHECKLIST
+
+PROJECT CONTENT
+[ ] Source/*.h and Source/*.cpp included
+[ ] Data/gallery.txt included
+[ ] Executable/Project.exe built locally on Windows
+[ ] Executable/Project_linux included for Linux testing
+[ ] Diagrams included
+[ ] Screenshots included
+[ ] ProjectReport.docx and ProjectReport.pdf included
+[ ] README.txt included
+[ ] VivaGuide.txt included
+[ ] Build scripts and Run_Project.bat included
+
+FUNCTIONAL VERIFICATION
+[ ] Add Artist
+[ ] Add Customer
+[ ] Add Artwork linked to an existing Artist
+[ ] Add Exhibition with valid start/end dates and theme
+[ ] Display all four categories
+[ ] Search by ID
+[ ] Update records
+[ ] Confirm sold artwork cannot be updated
+[ ] Delete records and verify reference protection
+[ ] Sell an available artwork
+[ ] Confirm a sold artwork cannot be sold again
+[ ] Generate report
+[ ] Save
+[ ] Reload with confirmation
+[ ] Exit and restart to verify persistence
+
+BEFORE SUBMISSION
+[ ] Run the project from an extracted folder on the target Windows computer.
+[ ] Replace the placeholder GitHub URL in the report with the student's real URL, if required.
+[ ] Do not claim a GitHub repository exists unless it has actually been created.
+[ ] Review the source code and be able to explain the OOP concepts during viva.

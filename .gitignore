@@ -1,0 +1,6 @@
+*.o
+*.obj
+.vs/
+__pycache__/
+Data/gallery.tmp
+Data/gallery.bak
